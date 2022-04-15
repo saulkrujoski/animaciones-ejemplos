@@ -13,3 +13,7 @@ body {
 .gradient-linear {
     background-image: linear-gradient(to left bottom,blue, green);
 }
+
+.gradient-radial {
+    background-image: radial-gradient(circle at top,orange, red);
+}
